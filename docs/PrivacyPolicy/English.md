@@ -4,6 +4,7 @@
 Ayana Sakai<br>
 <br>
 ### Permission
+We do not provide third parties with personally identifiable information.<br>
 This Applications need permissions below.<br>
 <br>
 I will never make use of your information other than for the following purposes.
