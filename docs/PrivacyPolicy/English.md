@@ -1,9 +1,9 @@
 ## Privacy Policy
 <br>
-###Service Provider
+### Service Provider
 Ayana Sakai<br>
 <br>
-###Permission
+### Permission
 This Applications need permissions below.<br>
 <br>
 I will never make use of your information other than for the following purposes.
@@ -20,5 +20,5 @@ We place great importance on your privacy.<br>
 
 If you have any questions, please do not hesitate to contact me.
 <br><br>
-###Contact
+### Contact
 **peenats1203@gmail.com**
