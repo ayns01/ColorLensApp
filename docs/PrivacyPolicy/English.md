@@ -16,7 +16,6 @@ Used to open storage.<br>
 
 Used to save created image in storage.<br>
 <br>
-We place great importance on your privacy.<br> 
 
 If you have any questions, please do not hesitate to contact me.
 <br><br>
